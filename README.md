@@ -1,2 +1,2 @@
 # Stock-Price-Analysis
-This is a stock proce Analyser
+This is a stock price analyser.
