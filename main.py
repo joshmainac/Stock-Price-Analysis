@@ -7,7 +7,7 @@ import pprint
 
 
 
-
+#testtest
 f = open("temp_stock_database.csv")
 reader = csv.reader(f)
 l = [row for row in reader]
